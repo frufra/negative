@@ -1,2 +1,2 @@
-# negative
-program for making a negative of an .png/.jpg
+# negative/riflesso
+program for making a negative and inverse  of an .png/.jpg
